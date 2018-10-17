@@ -1,14 +1,13 @@
-# tz_front
+#  forcryptouniverse.group
 > A Vue.js project
 
 ## How to start
 npm install
+
 npm run dev
 
 ## userlist:
 
-login: user1
-password: test1
+> login: user1, password: test1
 
-login: user2
-password: test2
+> login: user2 ,password: test2
