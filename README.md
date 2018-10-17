@@ -1,4 +1,4 @@
-#  forcryptouniverse.group
+#  for cryptouniverse.group
 > A Vue.js project
 
 ## How to start
@@ -10,4 +10,4 @@ npm run dev
 
 > login: user1, password: test1
 
-> login: user2 ,password: test2
+> login: user2, password: test2
