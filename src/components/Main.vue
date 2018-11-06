@@ -115,7 +115,6 @@ export default {
       hideNumbers: false,
       hideNumbers2: false,
 
-
       chartOptions: {
         legend: {
           position: 'top'
@@ -265,9 +264,7 @@ export default {
   .filter {
     margin-bottom: 30px; border-top: 1px solid #efefef;
 
-    &_item {
-      padding: 10px 15px 10px 30px; border-bottom: 1px solid #efefef; cursor: pointer; position: relative;
-    }
+    &_item { padding: 10px 15px 10px 30px; border-bottom: 1px solid #efefef; cursor: pointer; position: relative;}
     &_item:hover { background-color: #f2f2f2; }
     &_item:active { background-color: #f7f7f7; }
     &_item:before { content: ''; position: absolute; margin: auto; left: 11px; top: 0; bottom: 0; width: 6px; height: 6px; border-radius: 6px; }

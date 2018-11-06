@@ -95,6 +95,7 @@ export default {
 
   &-active { box-shadow: 0 0 6px 3px rgba(0,0,0,0.08) inset; background-color: rgba(0,0,0,0.04); color: #fff; }
   &:hover { color: #fff; }
+  &:active { color: #fff; background-color: rgba(255,255,255,.2); }
 }
 
 .left_menu__list { 
